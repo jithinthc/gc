@@ -1,0 +1,45 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-brand img{
+    max-width: 160px;
+}
+.navbar-custom{
+    margin: 25px 0 0;
+    padding: 25px;
+    border-radius: 70px;
+    box-shadow: 0px 3px 12.35px 0.65px rgba(183, 183, 183, 0.48);
+}
+.nav-link{
+    color: rgb(61, 61, 61);
+}
+.bg-custom-grey{
+    background: #e5e5e5;
+}
+.bg-custom-red{
+    background: #ec1b21;
+}
+.btn-custom{
+    background-color: #ec1b21;
+    border-color: #ec1b21;
+    border-radius: 30px;
+}
+.btn-custom:hover{
+    background-color: #d61c22;
+    border-color: #d61c22;
+}
+.form-control-custom{
+    border-radius: 30px;
+    padding: 12px 25px;
+}
+footer ul li a{
+    width: 40px;
+    height: 40px;
+    margin: 5px 15px;
+    color: #ec1b21;
+}
+footer ul li a:hover{
+    color: #d61c22;
+    text-decoration: none;
+}
+  
